@@ -3,12 +3,14 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
-import editor from "../../Assets/Projects/codeEditor.png";
-import car from "../../Assets/Projects/car.jpeg";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import car from "../../Assets/Projects/car.jpg";
+import planet from "../../Assets/Projects/planet travel.PNG";
+import news from "../../Assets/Projects/star news.PNG";
+import dream from "../../Assets/Projects/dream travel.PNG";
+import gemini from "../../Assets/Projects/gemini.PNG";
+import absolute from "../../Assets/Projects/absolute fitness.PNG";
+
+
 
 function Projects() {
   return (
@@ -27,59 +29,58 @@ function Projects() {
               imgPath={car}
               isBlog={false}
               title="Car Rental"
-              description="Car Rental website using PHP, HTML, CSS, XML, and AJAX. People can choose days and rent car online "
+              description="Car Rental website using PHP, HTML, CSS, XML, and AJAX. AJAX is used to check avilability of the car. Depend on the availability user can add car to the shopping cart. User can set rent days and also delete cars from the shopping cart. Checkout button is provided on the checkout page where user need to fill purchase form and fill delivery details."
               link="https://github.com/Pallavi999-debug/Car_Rental"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={planet}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              title="Planet Travel"
+              description="Planet Travel website using HTML and CSS. Website have attractive video showing nice views which encourages customers to really fall in love of travel. International travel countries and special travel packages are displayed on the screen. Customers can contact the company by filling contact us form and also by connecting on the Social Media."
+              link="https://github.com/Pallavi999-debug/Planet_Travel"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={news}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link="https://github.com/soumyajit4419/Editor.io"
+              title="Star News"
+              description="Star News website using HTML and CSS. Different news categories and breaking news are displayed on top of the screen. Featured, latest and other selected headlines displayed clearly along with pictures so that users can quickly select news and get all information. Users can subscribe to star news for latest updates and also connect on the social media."
+              link="https://github.com/Pallavi999-debug/Star_News"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={dream}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Dream Travel"
+              description="Dream Travel website using JavaScript, HTML, and CSS. Services and Products links given at the top. Home page attractive background video gives real feel of the adventure. World's popular destinations and their images inspires users to visit that places and do some exciting things. Social media links are given for users to follow company on the social media and know more adventures."
+              link="https://github.com/Pallavi999-debug/Dream_Travel"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={gemini}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Gemini"
+              description="Gemini online pizza order website using JavaScript, HTML, and CSS. Very attractive UI Design for both desktop as well as Mobile. Menu displayed on the top right corner where customer can check pizza and desert by selecting respective option and for more user can click on Full Menu option. All specials are nicely displayed on the homepage so that users will not miss any specials."
+              link="https://github.com/Pallavi999-debug/Gemini"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={absolute}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="Absolute Fitness"
+              description="Absolute Fitness responsive website using JavaScript, HTML, CSS, and GSAP. Services, Plans, and Trainers links given at the top. Also Special membership deal, services, plans, and trainers details displayed on the homepage so that customers can check quickly and will not miss anything. Gym contact number and social media links given in the footer section."
+              link="https://github.com/Pallavi999-debug/Absolute_Fitness"
             />
           </Col>
         </Row>

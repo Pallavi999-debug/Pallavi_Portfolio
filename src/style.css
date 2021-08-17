@@ -556,7 +556,7 @@ html {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px #024983 !important;
+  box-shadow: 4px 4px 4px 3px #024983 !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
