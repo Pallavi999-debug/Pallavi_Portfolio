@@ -3,8 +3,8 @@
   <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.PNG" />
-  <img alt="Demo" src="./Images/readme-img2.PNG" />
+  <img alt="Demo" src="./Images/img1.PNG" />
+  <img alt="Demo" src="./Images/img2.PNG" />
 </div>
 
 <br/>
@@ -15,13 +15,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 
 </center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
 
 ## Built With
 
