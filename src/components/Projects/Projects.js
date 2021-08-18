@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import car from "../../Assets/Projects/car.jpg";
+import car from "../../Assets/Projects/car.PNG";
 import planet from "../../Assets/Projects/planet travel.PNG";
 import news from "../../Assets/Projects/star news.PNG";
 import dream from "../../Assets/Projects/dream travel.PNG";
