@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://pptech.vercel.app/" target="_blank">pptech/</a>
+  <a href="https://pptech.vercel.app/" target="_blank">pptech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/img1.PNG" />
