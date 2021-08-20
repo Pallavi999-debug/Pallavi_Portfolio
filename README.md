@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="http://soumyajit.tech/" target="_blank">pptech.vercel.app/</a>
+  <a href="https://pptech.vercel.app/" target="_blank">pptech/</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/img1.PNG" />
@@ -19,7 +19,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://pptech.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects and my technical skills.<br/>
+My personal portfolio <a href="https://pptech.vercel.app/" target="_blank">pptech</a> which features some of my github projects and my technical skills.<br/>
 
 This project was built using these technologies.
 
