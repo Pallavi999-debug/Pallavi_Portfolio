@@ -4,8 +4,8 @@
 </h2>
 <div align="center">
   
- ![Portfolio1](https://user-images.githubusercontent.com/79240706/130562720-ccbdb4e9-17b6-4836-9236-a451a6cb7fac.PNG)
- ![portfolio2](https://user-images.githubusercontent.com/79240706/130562735-90abb9e8-06af-4ad2-a16f-9c33853e4e47.PNG)
+ <img alt="Demo" src="./Images/img1.PNG" />
+ <img alt="Demo" src="./Images/img2.PNG" />
 
 </div>
 
