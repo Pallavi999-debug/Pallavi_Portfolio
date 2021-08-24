@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://pallavitech.vercel.app/" target="">pallavitech</a>
+  <a href="https://pallaviportfolio.herokuapp.com/" target="">pallavitech</a>
 </h2>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://pallavitech.vercel.app/" target="">pallavitech</a> which features some of my github projects and my technical skills.<br/>
+My personal portfolio <a href="https://pallaviportfolio.herokuapp.com/" target="">pallavitech</a> which features some of my github projects and my technical skills.<br/>
 
 This project was built using these technologies.
 
