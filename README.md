@@ -4,9 +4,10 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/img1.PNG" />
   
-  <img alt="Demo" src="./Images/img2.PNG" />
+  ![Portfolio1](https://user-images.githubusercontent.com/79240706/130561230-b79387cc-7f23-4bf5-bd8f-fffc3e1f6ca9.PNG)
+  ![portfolio2](https://user-images.githubusercontent.com/79240706/130561247-c5709e09-4802-4ecf-8cea-517a9b2c9186.PNG)
+
 </div>
 
 <br/>
