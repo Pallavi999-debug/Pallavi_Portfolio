@@ -11,13 +11,6 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
 ## Built With
 
 My personal portfolio <a href="https://pallavitech.vercel.app/" target="">pallavitech</a> which features some of my github projects and my technical skills.<br/>
@@ -29,7 +22,6 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
