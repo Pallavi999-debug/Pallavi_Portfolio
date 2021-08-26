@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://ptech-portfolio.vercel.app/" target="">pallaviportfolio</a>
+  <a href="https://portfolio-pal.vercel.app/" target="">pallaviportfolio</a>
 </h2>
 <div align="center">
   
@@ -13,7 +13,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://ptech-portfolio.vercel.app/" target="_blank">pallaviportfolio</a> which features some of my github projects and my technical skills.<br/>
+My personal portfolio <a href="https://portfolio-pal.vercel.app/" target="_blank">pallaviportfolio</a> which features some of my github projects and my technical skills.<br/>
 
 This project was built using these technologies.
 
