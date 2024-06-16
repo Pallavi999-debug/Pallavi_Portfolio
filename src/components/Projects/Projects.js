@@ -9,6 +9,7 @@ import news from "../../Assets/Projects/star news.PNG";
 import dream from "../../Assets/Projects/dream travel.PNG";
 import gemini from "../../Assets/Projects/gemini.PNG";
 import absolute from "../../Assets/Projects/absolute fitness.PNG";
+import zenzest from "../../Assets/Projects/ZenZest1.PNG";
 
 
 
@@ -81,6 +82,16 @@ function Projects() {
               title="Absolute Fitness"
               description="Absolute Fitness responsive website using JavaScript, HTML, CSS, and GSAP. Services, Plans, and Trainers links given at the top. Also Special membership deal, services, plans, and trainers details displayed on the homepage so that customers can check quickly and will not miss anything. Gym contact number and social media links given in the footer section."
               link="https://github.com/Pallavi999-debug/Absolute_Fitness"
+            />
+          </Col>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={zenzest}
+              isBlog={false}
+              title="ZenZest"
+              description="ZenZest responsive website using JavaScript, HTML, CSS, and Vite. Home, About, Products, and Contact links given at the top. Also, special discounts and product checkout details displayed on the homepage so that customers can check quickly and will not miss anything. Customers can contact ZenZest by sending message on the contact page."
+              link="https://github.com/Pallavi999-debug/Dream_Travel"
             />
           </Col>
         </Row>
