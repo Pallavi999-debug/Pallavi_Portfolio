@@ -5,6 +5,7 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
+  DiExpress,
   DiHtml5,
   DiCss3,
   DiPhp,
@@ -23,6 +24,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiExpress/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
