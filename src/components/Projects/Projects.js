@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import car from "../../Assets/Projects/car.PNG";
+import jobAppTracker from "../../Assets/Projects/Job-App-Tracker.png";
 import planet from "../../Assets/Projects/planet travel.PNG";
 import news from "../../Assets/Projects/star news.PNG";
 import dream from "../../Assets/Projects/dream travel.PNG";
@@ -27,11 +27,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={car}
+              imgPath={jobAppTracker}
               isBlog={false}
-              title="Car Rental"
-              description="Car Rental website using PHP, HTML, CSS, XML, and AJAX. AJAX is used to check avilability of the car. Depend on the availability user can add car to the shopping cart. User can set rent days and also delete cars from the shopping cart. Checkout button is provided on the checkout page where user need to fill purchase form and fill delivery details."
-              link="https://github.com/Pallavi999-debug/Car_Rental"
+              title="Job Application Tracker"
+              description="A full-stack Job Application Tracker built with React.js, Tailwind CSS, Node.js, and Express.js. Features secure authentication using JWT, RESTful API integration, and dynamic job status management."
+              link="https://github.com/Pallavi999-debug/Job-Application-Tracker"
             />
           </Col>
 
