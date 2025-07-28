@@ -30,7 +30,7 @@ function Projects() {
               imgPath={jobAppTracker}
               isBlog={false}
               title="Job Application Tracker"
-              description="A full-stack Job Application Tracker built with React.js, Tailwind CSS, Node.js, and Express.js. Features secure authentication using JWT, RESTful API integration, and dynamic job status management."
+              description="This Job Application Tracker is a full-stack project built with React.js, Tailwind CSS, Node.js, and Express.js. It allows users to securely add, update, and track job applications using JWT authentication and RESTful APIs. The app is responsive and designed to showcase my ability to build functional and secure web applications."
               link="https://github.com/Pallavi999-debug/Job-Application-Tracker"
             />
           </Col>
