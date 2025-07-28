@@ -5,13 +5,12 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiExpress,
   DiHtml5,
   DiCss3,
   DiPhp,
   DiPython,
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import { SiPytorch, SiTensorflow, SiFirebase, SiExpress } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -26,7 +25,7 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiExpress/>
+        <SiExpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
