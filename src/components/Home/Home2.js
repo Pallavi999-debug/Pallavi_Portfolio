@@ -22,7 +22,7 @@ function Home2() {
               <br />
               <br />I am proficient in 
               <i>
-                <b className="blue"> C++, Javascript, HTML and CSS</b>
+                <b className="blue"> Javascript, HTML5 and CSS3</b>
               </i>
               <br />
               <br />

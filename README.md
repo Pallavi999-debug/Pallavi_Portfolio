@@ -4,8 +4,8 @@
 </h2>
 <div align="center">
   
- <img alt="Demo" src="./Images/img1.PNG" />
- <img alt="Demo" src="./Images/img2.PNG" />
+ <img alt="Demo" src="./Images/img1.png" />
+ <img alt="Demo" src="./Images/img2.png" />
 
 </div>
 
