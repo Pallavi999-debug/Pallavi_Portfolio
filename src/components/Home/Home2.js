@@ -33,7 +33,7 @@ function Home2() {
               <br />
               <br />
               I also enjoy developing products
-              with <b className="blue">Node.js</b> and
+              with <b className="blue">Node.js, Express.js</b> and
               <br/>
               <br/>
               <i>
